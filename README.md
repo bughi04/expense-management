@@ -1,4 +1,4 @@
-# Expense Management System with AI Currency Prediction
+# Expense Management System
 
 [![Java](https://img.shields.io/badge/Java-22-orange.svg)](https://openjdk.java.net/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-22.0.1-blue.svg)](https://openjfx.io/)
