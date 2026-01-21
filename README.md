@@ -8,8 +8,6 @@
 
 A comprehensive expense management system with **dual interfaces**: a JavaFX desktop GUI and a RESTful API backend. Features **AI-powered currency predictions** using custom-built machine learning algorithms (linear regression) for 7-day exchange rate forecasting.
 
-> **Note**: This project was designed and implemented by me, with selective use of AI tools for research, refactoring, and productivity - similar to modern IDE assistance.
-
 ## Key Features
 
 ### Core Functionality
@@ -131,21 +129,6 @@ Comprehensive unit and integration tests using:
 ```bash
 # Run all tests
 mvn test
-```
-
-## Project Structure
-```
-expense-management-ai/
-├── src/main/java/org/example/project/
-│   ├── ExpenseManagerApp.java           # JavaFX application entry
-│   ├── ExpenseManagementApplication.java # Spring Boot entry
-│   ├── DatabaseManager.java             # Database operations
-│   ├── CurrencyPredictor.java          # ML implementation
-│   ├── controller/                      # REST controllers
-│   ├── service/                         # Business logic
-│   └── dto/                            # Data Transfer Objects
-├── src/test/java/                      # Unit tests
-└── pom.xml                             # Maven configuration
 ```
 
 ## OOP Concepts Demonstrated
